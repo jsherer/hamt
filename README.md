@@ -340,7 +340,7 @@ Contributions are welcome! Please ensure:
 
 ## License
 
-This project is released under the MIT License.
+See [LICENSE](LICENSE)
 
 ## Acknowledgments
 
